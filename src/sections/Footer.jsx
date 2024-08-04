@@ -6,7 +6,7 @@ const Footer = () => {
       <footer className="text-white px-8 flex justify-between items-start">
         <Logo></Logo>
         <div>
-          <p className='font-display font-semibold text-white'>@2024 built </p>
+          <p className='font-display font-semibold text-white'>@2024 built with love </p>
         </div>
       </footer>
     </div>

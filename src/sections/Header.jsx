@@ -2,7 +2,7 @@ import Button from "../components/Button";
 import Logo from "../components/Logo";
 const Header = () => {
   return (
-    <div className="px-4 py-4 md:px-16 md:py-5 lg:px-20 lg:py-6">
+    <div className="px-4 mb-4 py-4 md:px-16 md:py-5 lg:px-20 lg:py-6">
       <div className="px-8 flex justify-between items-center">
         <Logo />
         <Button>

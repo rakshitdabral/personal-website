@@ -2,7 +2,7 @@ import React from 'react';
 import Instagram from "../assets/instagram.svg";
 const socialIcons = [
   { src: Instagram, link: "https://www.instagram.com/_vincetq/" },
-  { src: "https://cdn.builder.io/api/v1/image/assets/TEMP/ae18bc3c634cf3e691965d66ae63f4481345209bb5979e8c17197d2097807adf?apiKey=e15faf82bcea411dbb8425c5f7311fda&&apiKey=e15faf82bcea411dbb8425c5f7311fda", alt: "Social icon 3" },
+  { src: "https://cdn.builder.io/api/v1/image/assets/TEMP/ae18bc3c634cf3e691965d66ae63f4481345209bb5979e8c17197d2097807adf?apiKey=e15faf82bcea411dbb8425c5f7311fda&&apiKey=e15faf82bcea411dbb8425c5f7311fda", link: "https://x.com/DabralRakshit"},
 
 ];
 

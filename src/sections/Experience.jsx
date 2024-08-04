@@ -13,8 +13,8 @@ const experienceData = [
 
 const Experience = () => {
   return (
-    <section className="flex  overflow-hidden items-start px-20 py-16 bg-black max-md:px-5">
-    <div className="flex  overflow-hidden flex-col justify-center px-8 min-w-[240px] w-[1280px] max-md:px-5 max-md:max-w-full">
+    <section className="flex  justify-center items-center overflow-hidden px-20 py-16 bg-black max-md:px-5">
+    <div className="flex  overflow-hidden flex-col  px-8 min-w-[240px] w-[1280px] max-md:px-5 max-md:max-w-full">
         <h2 className="flex overflow-hidden flex-wrap gap-4 justify-center items-center py-5 w-full text-5xl tracking-tighter leading-none text-white whitespace-nowrap max-md:max-w-full max-md:text-4xl">
           <span className="self-stretch my-auto max-md:text-4xl">My</span>
           <span className="self-stretch my-auto font-extrabold max-md:text-4xl">Experience</span>
